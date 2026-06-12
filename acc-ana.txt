@@ -1,0 +1,10 @@
+Data Analyst
+coston
+London
+1 year
+₹1 LPA
+
+R, Numpy
+Matplot
+
+Jupter notebook
